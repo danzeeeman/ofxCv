@@ -18,6 +18,7 @@
 #include "ofVideoGrabber.h"
 #include "ofPolyline.h"
 #include "ofVectorMath.h"
+#include "ofMesh.h"
 
 namespace ofxCv {
 	// these functions are for accessing Mat, ofPixels and ofImage consistently.

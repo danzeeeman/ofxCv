@@ -6,6 +6,7 @@
 #pragma once
 
 #include "opencv2/opencv.hpp"
+#include "ofMath.h"
 #include "ofVectorMath.h"
 #include "ofRectangle.h"
 #include "ofColor.h"
